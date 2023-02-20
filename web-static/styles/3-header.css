@@ -6,11 +6,11 @@
       border-bottom: 1px solid #CCCCCC;
     }
 
-    .logo {
+   header .logo {
       margin:0;
       background:url("../images/logo.png") no-repeat;
-      left: 20px
-      height:100%;
+      left: 20px;
+      height: 100%;
     }
 
 
