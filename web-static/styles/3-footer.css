@@ -4,10 +4,10 @@
       height:60px;
       width:100%;
       bottom:0;
-      border-top:1px #CCCCCC;
+      border-top:1px solid #CCCCCC;
     }
 
-  p {
+    footer  p {
       position:absolute;
       text-align:center;
       top:10%;
